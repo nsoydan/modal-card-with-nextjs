@@ -1,0 +1,41 @@
+.mainContainer {
+
+
+    position: absolute;
+    width: 1680px;
+    height: 7478px;
+    left: 0;
+    top: 0;
+
+    background: #FFFFFF;
+
+
+    .container {
+
+        padding-left: 7%;
+        padding-right: 7%;
+        padding-top: 5;
+        width: 1680px;
+        height: 910px;
+        background: linear-gradient(180deg, #FFFFFF 0%, #96a0a4 100%);
+
+    }
+    .rectangular {
+        position: absolute;
+        width: 600px;
+        height: 351 px;
+        left: 243px;
+        top: 733px;
+        background: #FFFFFF;
+        border-radius: 40px;
+
+    }
+    .middleContainer {
+        margin-top: 0;
+        width: 1680px;
+        height: 630px;
+        background: #666666;
+    }
+
+
+}
